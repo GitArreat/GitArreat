@@ -1,3 +1,6 @@
 add txt
+<<<<<<< HEAD
 
 some update from gitkraken
+=======
+>>>>>>> branch-2-1
